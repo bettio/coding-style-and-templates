@@ -27,7 +27,7 @@ CHANGELOG.md should be added as soon as the first release is tagged, see also
 
 {{GITHUB_REPO_NAME}} is open to any contribution.
 
-[pull requests]({{GITHUB_REPO_URL}}/pulls),
+[Pull requests]({{GITHUB_REPO_URL}}/pulls),
 [bug reports and feature requests]({{GITHUB_REPO_URL}}/issues)
 are welcome.
 
