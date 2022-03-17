@@ -1,0 +1,1 @@
+# Codying Style and Templates
