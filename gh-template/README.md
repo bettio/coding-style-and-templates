@@ -20,6 +20,9 @@ Just replace the following:
 
 This template uses Apache-2.0 as reference license, feel free to replace it with any other license.
 
+CHANGELOG.md should be added as soon as the first release is tagged, see also
+[Keep a Changelog](https://keepachangelog.com/en/1.0.0/) for more information.
+
 ## Contributing
 
 {{GITHUB_REPO_NAME}} is open to any contribution.

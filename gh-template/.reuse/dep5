@@ -2,3 +2,7 @@ Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: {{GITHUB_REPO_NAME}}
 Upstream-Contact: {{UPSTREAM_CONTACT}} <{{UPSTREAM_MAIL_ADDRESS}}>
 Source: {{GITHUB_REPO_URL}}
+
+Files: CHANGELOG.md
+Copyright: {{YEAR}} {{AUTHOR}}
+License: CC0-1.0
