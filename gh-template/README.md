@@ -35,4 +35,4 @@ are welcome.
 
 {{GITHUB_REPO_NAME}} source code is released under the Apache 2.0 license.
 
-Check the [LICENSE](LICENSE) file for more information.
+Read the [LICENSE](LICENSE) file for more information.
